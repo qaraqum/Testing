@@ -1,4 +1,4 @@
-# Testi strategy
+# Test strategy
 > ISTQB: A high-level description of the levels of testing to be performed and the testing included in these levels for an organization or program from one or more projects.
 
 A test strategy is a high-level static document, usually developed by a project manager. This is a document that reflects the approach to product testing and achieving goals, and gives a clear idea of what the testing team will do for the entire project. It is usually derived from the Business Requirements Specification (BRS). As soon as the testing strategy is ready, the testing team begins to write a detailed test plan and continues further testing steps. In the Agile world, some companies don't take the time to prepare a test plan because of the minimum time for each release, but they maintain a test strategy document. This is one of the important documents in test deliverables that the testing team shares with stakeholders to better understand the scope of the project, risks, testing approaches, and other important aspects.
