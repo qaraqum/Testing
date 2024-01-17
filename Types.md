@@ -1,3 +1,5 @@
+# Types of testing
+
 ## Functional testing	
 - Testing functionalities for proper behavior
 - Usability testing	
